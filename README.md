@@ -20,3 +20,5 @@ Print Building takes O(log n) time for a single node where n is the total number
 Printing Building Range takes time O(log n + S) where n is the total number of buildings and S is buildings printed.
 
 All of the other operations work in O(log n) time.
+
+For the low level design details of the project, please refer: [Class diagram](https://github.com/1994sam/RisingCitiesProject/blob/master/src/classdiagram/project.png)
