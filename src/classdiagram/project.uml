@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.project</OriginalElement>
+  <nodes>
+    <node x="420.23184523809533" y="934.0">com.project.RisingCity</node>
+    <node x="345.15000000000003" y="325.0">com.project.bean.BuildingTest</node>
+    <node x="18.87916666666672" y="33.5">com.project.tree.NodeColor</node>
+    <node x="92.15000000000009" y="269.0">com.project.tree.TreeNode</node>
+    <node x="713.5176136363638" y="552.0">com.project.heap.MinHeap</node>
+    <node x="779.8301136363638" y="1001.0">com.project.heap.MinHeapTest</node>
+    <node x="0.0" y="552.5">com.project.tree.RedBackTree</node>
+    <node x="481.8127164502165" y="0.0">com.project.bean.Building</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7659222497932175" x="515.5" y="594.5" />
+  <SelectedNodes>
+    <node>com.project.RisingCity</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
